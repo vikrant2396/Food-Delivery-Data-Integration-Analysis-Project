@@ -1,4 +1,4 @@
-# 🍔 Food Delivery Data Integration Project
+#  Food Delivery Data Integration Project
 
 > **A comprehensive data integration and analysis project combining CSV, JSON, and SQL data sources**
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Project Structure](#project-structure)
@@ -29,16 +29,16 @@ This project demonstrates **real-world data integration skills** by merging thre
 
 ### What This Project Does
 
-✅ Loads and processes data from multiple sources  
-✅ Performs complex data merging using left joins  
-✅ Enriches data with temporal features  
-✅ Generates comprehensive business analytics  
-✅ Creates professional visualizations  
-✅ Produces actionable business insights  
+ Loads and processes data from multiple sources  
+ Performs complex data merging using left joins  
+ Enriches data with temporal features  
+ Generates comprehensive business analytics  
+ Creates professional visualizations  
+ Produces actionable business insights  
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 project/
@@ -70,7 +70,7 @@ project/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Running the Integration Script
 
@@ -97,7 +97,7 @@ python create_visualizations.py
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 
 ### Source Files
 
@@ -132,14 +132,14 @@ python create_visualizations.py
 16. `total_amount` - Order total in USD
 
 **Data Quality**:
-- ✅ 0% null values
-- ✅ 100% referential integrity
-- ✅ Valid date range (Jan 1 - Dec 31, 2023)
-- ✅ All data types properly formatted
+-  0% null values
+-  100% referential integrity
+-  Valid date range (Jan 1 - Dec 31, 2023)
+-  All data types properly formatted
 
 ---
 
-## 🎨 Key Features
+##  Key Features
 
 ### Data Integration Pipeline
 
@@ -172,16 +172,16 @@ Final Dataset → 10,000 rows × 16 columns
 
 ---
 
-## 📈 Analysis Results
+##  Analysis Results
 
-### 💰 Revenue Highlights
+###  Revenue Highlights
 
 - **Total Revenue**: $8,011,624.12
 - **Average Order**: $801.16
 - **Order Range**: $100.20 - $1,499.83
 - **Peak Month**: March 2023 ($716,738.98)
 
-### 🏙️ City Performance
+###  City Performance
 
 | City | Orders | Revenue | Market Share |
 |------|--------|---------|--------------|
@@ -190,14 +190,14 @@ Final Dataset → 10,000 rows × 16 columns
 | Pune | 2,430 | $1.92M | 24.3% |
 | Hyderabad | 2,350 | $1.89M | 23.5% |
 
-### 🍽️ Cuisine Rankings
+###  Cuisine Rankings
 
 1. **Mexican** - $2.09M (26% share)
 2. **Italian** - $2.02M (25% share)
 3. **Indian** - $1.97M (25% share)
 4. **Chinese** - $1.93M (24% share)
 
-### 👥 User Insights
+###  User Insights
 
 - **Active Users**: 2,883
 - **Avg Orders/User**: 3.5
@@ -206,7 +206,7 @@ Final Dataset → 10,000 rows × 16 columns
 
 ---
 
-## 🖼️ Visualizations
+##  Visualizations
 
 ### Available Charts
 
@@ -222,14 +222,14 @@ Final Dataset → 10,000 rows × 16 columns
 10. **Quarterly Performance** - Dual-axis quarterly trends
 
 All visualizations are:
-- ✅ High resolution (300 DPI)
-- ✅ Publication-ready
-- ✅ Color-coded for clarity
-- ✅ Annotated with key metrics
+-  High resolution (300 DPI)
+-  Publication-ready
+-  Color-coded for clarity
+-  Annotated with key metrics
 
 ---
 
-## 📖 Usage Guide
+##  Usage Guide
 
 ### For Students
 
@@ -287,7 +287,7 @@ All visualizations are:
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 ### Python Version
 - Python 3.8 or higher
@@ -309,7 +309,7 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-## ❓ FAQs
+##  FAQs
 
 ### Q: What is the data quality?
 **A:** 100% complete - zero null values, all joins successful, valid date ranges.
@@ -337,24 +337,24 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-## 🎓 Learning Objectives
+##  Learning Objectives
 
 This project teaches:
 
-- ✅ **Data Integration** from multiple formats
-- ✅ **ETL Processes** (Extract, Transform, Load)
-- ✅ **Data Cleaning** and validation
-- ✅ **Feature Engineering** (temporal features)
-- ✅ **Exploratory Data Analysis** (EDA)
-- ✅ **Statistical Analysis** and insights
-- ✅ **Data Visualization** best practices
-- ✅ **Business Intelligence** reporting
-- ✅ **Python** for data analysis
-- ✅ **SQL** data handling
+-  **Data Integration** from multiple formats
+-  **ETL Processes** (Extract, Transform, Load)
+-  **Data Cleaning** and validation
+-  **Feature Engineering** (temporal features)
+-  **Exploratory Data Analysis** (EDA)
+-  **Statistical Analysis** and insights
+-  **Data Visualization** best practices
+-  **Business Intelligence** reporting
+-  **Python** for data analysis
+-  **SQL** data handling
 
 ---
 
-## 📝 Key Takeaways
+##  Key Takeaways
 
 ### Technical Skills
 1. Working with heterogeneous data sources
@@ -372,7 +372,7 @@ This project teaches:
 
 ---
 
-## 🎯 Next Steps
+##  Next Steps
 
 1. **Predictive Analytics**: Build models to forecast demand
 2. **Customer Segmentation**: Cluster users by behavior
@@ -382,13 +382,13 @@ This project teaches:
 
 ---
 
-## 📄 License
+##  License
 
 This project is for educational purposes. The data is synthetic and generated for learning.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Students are encouraged to:
 - Add new analysis features
@@ -398,7 +398,7 @@ Students are encouraged to:
 
 ---
 
-## 📧 Support
+##  Support
 
 For questions or issues:
 1. Review `PROJECT_DOCUMENTATION.md` for detailed insights
@@ -407,9 +407,9 @@ For questions or issues:
 
 ---
 
-## ⭐ Project Status
+##  Project Status
 
-**Status**: ✅ **COMPLETE**
+**Status**:  **COMPLETE**
 
 **Last Updated**: January 31, 2026
 
@@ -417,11 +417,11 @@ For questions or issues:
 
 ---
 
-**Made with 💻 for learning data integration and analysis**
+**Made with  for learning data integration and analysis**
 
 ---
 
-## 🏆 Achievement Checklist
+##  Achievement Checklist
 
 - [x] Successfully integrated 3 different data formats
 - [x] Created clean, complete dataset (0% nulls)
@@ -433,4 +433,4 @@ For questions or issues:
 
 ---
 
-*Happy Analyzing! 📊*
+*Happy Analyzing!*
