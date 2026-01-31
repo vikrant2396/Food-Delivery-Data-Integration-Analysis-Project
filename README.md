@@ -23,7 +23,7 @@
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 This project demonstrates **real-world data integration skills** by merging three different data formats (CSV, JSON, SQL) into a unified dataset for comprehensive analysis. The final dataset contains **10,000 food delivery orders** spanning the entire year of 2023.
 
