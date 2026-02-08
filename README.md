@@ -1,11 +1,5 @@
 #  Food Delivery Data Integration Project
 
-> **A comprehensive data integration and analysis project combining CSV, JSON, and SQL data sources**
-
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-2.0+-green.svg)](https://pandas.pydata.org/)
-[![Status](https://img.shields.io/badge/Status-Complete-success.svg)]()
-
 ---
 
 ##  Table of Contents
@@ -379,12 +373,6 @@ This project teaches:
 3. **Recommendation System**: Suggest restaurants to users
 4. **Price Optimization**: Analyze optimal pricing strategies
 5. **Churn Prediction**: Identify at-risk customers
-
----
-
-##  License
-
-This project is for educational purposes. The data is synthetic and generated for learning.
 
 ---
 
